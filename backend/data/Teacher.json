@@ -1,0 +1,5 @@
+[
+  { "employeeNumber": "F001", "name": "Aragon",  "specialization": "Programming", "department": "DIT", "sex": "Male" },
+  { "employeeNumber": "F002", "name": "Cruzat",  "specialization": "Networking",  "department": "DIT", "sex": "Female" },
+  { "employeeNumber": "F003", "name": "Baluyot", "specialization": "Database",    "department": "BFC", "sex": "Male" }
+]

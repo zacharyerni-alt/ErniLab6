@@ -1,0 +1,5 @@
+[
+  { "name": "Juan Dela Cruz", "studentNumber": "202310001", "course": "BSIT" },
+  { "name": "Maria Santos",   "studentNumber": "202310002", "course": "BSIT" },
+  { "name": "Pedro Reyes",    "studentNumber": "202310003", "course": "BSCS" }
+]
